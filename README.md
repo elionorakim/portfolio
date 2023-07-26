@@ -34,7 +34,7 @@
 -	как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков).
 
 - > <a href="-">Задача и алгоритм решения </a>
-- > <a href="-">Решение и визуализация </a>
+- > <a href="https://docs.google.com/spreadsheets/d/1xDWAjmgIYO6c1CI0tVFuQZ2YsHWRWofaN6xrmGppYuw/edit?usp=sharing">Результат и визуализация </a>
 - > <a href="https://drive.google.com/drive/my-drive?ths=true">SQL запрос </a>
 
 ## Контактная информация
