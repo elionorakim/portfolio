@@ -33,7 +33,7 @@
 -	сколько всего уроков было на балансе всех учеников за каждый календарный день;
 -	как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков).
 
-- > <a href="-">Задача и алгоритм решения </a>
+- > <a href="https://docs.google.com/document/d/148m-DvQa5C3Iq9khqXLRU7krZOgWKayw9QTGYtUJXc8/edit?usp=sharing">Задача и алгоритм решения </a>
 - > <a href="https://docs.google.com/spreadsheets/d/1xDWAjmgIYO6c1CI0tVFuQZ2YsHWRWofaN6xrmGppYuw/edit?usp=sharing">Результат и визуализация </a>
 - > <a href="https://drive.google.com/file/d/1uWUXPdcMH4LR-PjGaraTGH-Cmen1A0EG/view?usp=share_link">SQL запрос </a>
 
