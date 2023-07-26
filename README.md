@@ -35,17 +35,9 @@
 
 > <a href="https://docs.google.com/spreadsheets/d/1kLnMyYuzJ_1Yp3x6_IoFi9E7uO0Zu-RevWUQmKBlIhk/edit?usp=sharing">Ссылка на проект</a>
 
-<p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
 <br> 
 
-<br> 
-
-
-<p>Проект 5: Моделирование изменения балансов студентов</p> 
+<p>Проект 2: Моделирование изменения балансов студентов</p> 
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>
