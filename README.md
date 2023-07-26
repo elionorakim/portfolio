@@ -35,7 +35,7 @@
 
 - > <a href="-">Задача и алгоритм решения </a>
 - > <a href="https://docs.google.com/spreadsheets/d/1xDWAjmgIYO6c1CI0tVFuQZ2YsHWRWofaN6xrmGppYuw/edit?usp=sharing">Результат и визуализация </a>
-- > <a href="https://drive.google.com/drive/my-drive?ths=true">SQL запрос </a>
+- > <a href="https://drive.google.com/file/d/1uWUXPdcMH4LR-PjGaraTGH-Cmen1A0EG/view?usp=share_link">SQL запрос </a>
 
 ## Контактная информация
 - Email: elionora.kim@bk.ru
