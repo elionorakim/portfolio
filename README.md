@@ -25,6 +25,8 @@
 - > <a href="https://docs.google.com/spreadsheets/d/1kLnMyYuzJ_1Yp3x6_IoFi9E7uO0Zu-RevWUQmKBlIhk/edit?usp=sharing">Решение</a>
 <br> 
 
+
+
 <p> Проект 2: Моделирование изменения балансов студентов
 
 <p>Что нужно было сделать:<p>
